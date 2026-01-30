@@ -1,0 +1,7 @@
+{
+  "name": "EX PRO | NEURAL CLOUD",
+  "description": "High-fidelity cloud-synced product matrix with Gemini AI vision and FastAPI neural core.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
